@@ -17,8 +17,8 @@
 - Making meaningful open-source contributions
 
 🛠️ Tech Stack:
-`React` `JavaScript` `SQL` `HTML` `CSS` `Tailwind` `Bootstrap` 
-`Node.js (learning)` `Express (learning)` `MongoDB (up next)`  
+`React` `JavaScript` `SQL` `HTML` `CSS` `Tailwind` `Bootstrap` <br>
+`Node.js (learning)` `Express (learning)` `MongoDB (up next)`  <br>
 `Python` `Jupyter Notebook` `Matplotlib`
 
 📫 Let's connect!
@@ -29,5 +29,5 @@
 
 ### 📈 GitHub Stats
 
-![My GitHub Stats ❤](https://github-readme-stats.vercel.app/api?username=Sohi07&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohi07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohi07&layout=compact&theme=radical)
