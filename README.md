@@ -29,5 +29,5 @@
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohi07&show_icons=true&theme=radical)
+![My GitHub Stats ❤](https://github-readme-stats.vercel.app/api?username=Sohi07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohi07&layout=compact&theme=radical)
