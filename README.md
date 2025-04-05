@@ -10,14 +10,16 @@
 🌱 Currently learning:
 - Backend development
 - API integration
-- 📚 Building ML Models
+- Building cool ML Models
 
 🧠 Open to:
 - Collaborating on real-world projects
 - Making meaningful open-source contributions
 
 🛠️ Tech Stack:
-`React` `JavaScript` `HTML` `CSS` `Tailwind` `Node.js (learning)` `Express (learning)` `MongoDB (up next)`
+`React` `JavaScript` `SQL` `HTML` `CSS` `Tailwind` `Bootstrap` 
+`Node.js (learning)` `Express (learning)` `MongoDB (up next)`  
+`Python` `Jupyter Notebook` `Matplotlib`
 
 📫 Let's connect!
 - LinkedIn: [https://www.linkedin.com/in/sohini-das-3028aa28a/]
