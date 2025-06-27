@@ -1,16 +1,15 @@
 ## Hi there 🌻, I am Sohini!
 
 🎓 I'm a passionate tech learner and developer currently diving deep into:
-- 💻 Frontend development with React & Tailwind
-- ⚙️ Backend basics with Node.js, Express & MongoDB
+- 💻 Frontend development with React and integretion of Backend with Firebase
 
-
-🚀 I'm building impactful projects like **Teach for Good** — a platform to connect volunteers with NGOs to make education more accessible.
+I'm building impactful projects like **Teach for Good** — a platform to connect volunteers with NGOs to make education more accessible.
 
 🌱 Currently learning:
+- Building cool ML Models
 - Backend development
 - API integration
-- Building cool ML Models
+
 
 🧠 Open to:
 - Collaborating on real-world projects
@@ -22,7 +21,7 @@
 `Python` `Jupyter Notebook` `Matplotlib`
 
 📫 Let's connect!
-- LinkedIn: [https://www.linkedin.com/in/sohini-das-3028aa28a/]
+- LinkedIn: [LINK](https://www.linkedin.com/in/sohini-das-3028aa28a/)
 - Email: sohinid474@gmail.com
 
 ---
